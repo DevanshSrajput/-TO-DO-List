@@ -28,14 +28,11 @@ This project is a simple To-Do List application implemented in C using a linked 
    cd To-DO-List
 
 ## Compile the program
-
-    ```sh
-     gcc -o todo_list main.c
+      gcc -o todo_list main.c
 
 ## Usage
    Run the Program
-    
-    ```sh
+   
      ./todo_list
 
 ## Code Structure
